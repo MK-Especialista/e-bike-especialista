@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fabricio-df.github.io/e-bike-especialista/sitemap.xml
